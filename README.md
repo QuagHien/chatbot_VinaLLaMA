@@ -1,5 +1,5 @@
 ## Fine-tuned VinaLLaMA
-To create a Vietnamese chatbot, we will fine-tune the VinaLLaMA model, which has been trained on a predominantly Vietnamese dataset..
+A Vietnamese chatbot will be fine-tuned using the VinaLLaMA model (a model trained with the Vietnamese dataset).
 ## Customizing Code
 Initializing the model: "vilm/vinallama-7b-chat".
 
