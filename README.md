@@ -1,5 +1,5 @@
 ## Fine-tuned VinaLLaMA
-Vietnamese Language Chatbot that can converse in daily conversations, so in the following we will perform VinaLLaMA finetuning on the conversation data 'alespalla/chatbot instruction prompts'.
+To create a Vietnamese language chatbot capable of engaging in daily conversations, we will fine-tune the VinaLLaMA model using the conversation dataset 'alespalla/chatbot_instruction_prompts'.
 ## Customizing Code
 Initializing the model: "vilm/vinallama-7b-chat" - a model trained by a Vietnamese research group on a predominantly Vietnamese dataset.
 
