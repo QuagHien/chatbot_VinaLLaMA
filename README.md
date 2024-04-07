@@ -6,4 +6,5 @@ Initializing the model: "vilm/vinallama-7b-chat" - a model trained by a Vietname
 Our goal is to build a chatbot that can conduct daily conversations. To improve answer quality, we will fine-tune VinaLLaMA on the conversation dataset named 'alespalla/chatbot_instruction_prompts'.
 
 *Building a fine-tuning dataset using the DatasetDict data type.
+
 *Train model.
